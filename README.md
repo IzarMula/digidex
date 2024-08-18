@@ -1,0 +1,2 @@
+# digidex
+React + Fastapi: DigiDex
